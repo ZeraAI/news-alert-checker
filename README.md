@@ -25,4 +25,7 @@ python3 news_monitor.py
 
 ## How is this useful?
 If you want to keep up with certain news or are particularly interested in a specific article, then this script will get the job done.
-Especially during these trying times with uncertainty and war (ex: Ukraine vs Russia, Hamas Israel and Palestine), you could run this on a Raspberry Pi with a little speaker to stay up to date.
+
+Especially during these trying times with uncertainty and war (ex: Ukraine vs Russia, Hamas Israel and Palestine). 
+
+Suggestion: You could run this on a Raspberry Pi with a little speaker to stay up to date.
